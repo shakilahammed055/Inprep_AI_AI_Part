@@ -7,3 +7,5 @@ python-multipart
 pypdf
 openai
 python-dotenv
+numpy
+opencv-python-headless
